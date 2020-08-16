@@ -1,10 +1,10 @@
 # :green_book:BookLand
 
-BookLand is an online book store mobile application. It is designed by 5 developers. It was a 2020 Spring term Software Engineering course prooject. You can access final presentation from [here](https://docs.google.com/presentation/d/1QhPbuoF16GF9p1AeFg0GjaWULYJFct3-WXjOO21OBtc/edit#slide=id.p).
+Bookland is an online book store mobile application. It is designed by 5 developers. It was a 2020 Spring term Software Engineering course project. You can access final presentation from [here](https://docs.google.com/presentation/d/1QhPbuoF16GF9p1AeFg0GjaWULYJFct3-WXjOO21OBtc/edit#slide=id.p).
 
 ## :woman_technologist: :man_technologist: Team Members
 
-- **Nurbüke Teker:** Proeject Manager - Mobile Developer
+- **Nurbüke Teker:** Project Manager - Mobile Developer
 
 - **Esra Kabakbaş:** Software Architect - Mobile Developer
 
